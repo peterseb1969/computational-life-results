@@ -2,6 +2,7 @@
 
 Run archives of BFF primordial soup experiments, produced by
 [computational-life](https://github.com/peterseb1969/computational-life) (`bff_archive.py`).
+Published at https://github.com/peterseb1969/computational-life-results.
 One JSON file per run in `archive/`, named `<host>-<seed>.json`. Each archive is
 self-contained: parameters, event epochs, the winning species and families with
 raw bytes, the ancestry of the winners with replayed birth tapes, and the metrics log.
@@ -11,7 +12,7 @@ raw bytes, the ancestry of the winners with replayed birth tapes, and the metric
 On any machine with the code:
 
 ```bash
-git clone http://gitea.internal:3000/peter/computational-life-results.git   # once
+git clone https://github.com/peterseb1969/computational-life-results.git   # once
 export BFF_ARCHIVE_DIR=/path/to/computational-life-results/archive            # or --archive-dir
 python3 bff_soup.py --num 131072 --epochs 60000 --seed 47 --max-steps 8192 --metric-sample 32768 \
         --stop-selfreps 65536 --stop-after 2048
@@ -49,3 +50,15 @@ machine. Same seed means the same universe (the pairing of every epoch derives f
 seed), so they are cross-machine determinism checks, not independent observations, and
 `bff_compare.py` does not read them. `mac-mini-44` reproduced `ps-macbook-pro-44` exactly:
 same events, same winners with identical counts.
+
+## Reproducing a run
+
+Every run is deterministic: the seed fixes the initial soup and the pairing of every epoch.
+To regenerate a run directory (needed for the viewer's lineage and stepper tabs), run the
+simulator with the archive's `seed_label` and protocol, for example for `ps-macbook-pro-macbook-1`:
+
+```bash
+python3 bff_soup.py --seed macbook-1 --num 131072 --max-steps 8192 --metric-sample 32768 --epochs 60000
+```
+
+About 20 minutes on an M4 Pro. The result is byte-identical to the original run.
