@@ -1,0 +1,71 @@
+{
+ "run": "harvest-seed-6",
+ "protocol": "128k-8192-heads-init-winners",
+ "host": "peters-mac-mini-m4-pro",
+ "num_programs": 131072,
+ "seed": 6186979171259003562,
+ "cull": {
+  "replicators": 1000,
+  "interval": 4
+ },
+ "last_epoch": 749,
+ "lineage_species_removed": 17771,
+ "culls": [
+  {
+   "epoch": 12,
+   "key": "<}{[[>}.],[,]<[{]{}<<<.[[.<}[.,[{",
+   "count": 1,
+   "score": 43,
+   "kind": "replicator",
+   "program": "7c3c6a7d96407b5b5b78af3132ba40993e7d2e5d2c395b2c5df7a63c5b7b12455d7b707d3c7f3c3c2eac00c85b5b2e3c117d5b7584848e462e00cfce2c5b7b5a"
+  },
+  {
+   "epoch": 144,
+   "key": "[,,[,-,,,,.>}].]",
+   "count": 2,
+   "score": 64,
+   "kind": "replicator",
+   "program": "4000005b734000404040002c2c404040404040000040724041400000795e00005b022c2d2c052c2cbb690001762c6b002e3e00007d5d0e342ea1bdb1b15db039"
+  },
+  {
+   "epoch": 156,
+   "key": "][>[><,{<],,<<[]>}+}}}}",
+   "count": 2,
+   "score": 31,
+   "kind": "replicator",
+   "program": "5d1e5b3e5b53153e42003ca12c0cf17b340c3c9ace5d87642c792c5a7f007f80ec01f295d7d73cab403cd004055bfb5d3e16807d0101d72b7d7d7d27017d0102"
+  },
+  {
+   "epoch": 204,
+   "key": "[>},],},],{[,}{{{{{{{{{{{{{{{{{>[[<",
+   "count": 2,
+   "score": 28,
+   "kind": "replicator",
+   "program": "1b5b3ee17d5f2c5d2ce17d5f2c5d2c417b505b784b2c7d585e1c7bb57b7b7b7b7b7b7b7b7b7b7b7b7b7b7b7b9a3e5b5b253cfe5a5c5c5c5c5c5c5c5c5c5c6a5c"
+  },
+  {
+   "epoch": 320,
+   "key": "[[.{<]<>,<",
+   "count": 2,
+   "score": 28,
+   "kind": "replicator",
+   "program": "9b5b67510f5b9acbcc1e2e411b7b3c5f2f5d963c1a513e2c35380137023b3d3c3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dc9c902"
+  },
+  {
+   "epoch": 348,
+   "key": "[-[.{<][<[]-]]]>,>}},>}},}",
+   "count": 2,
+   "score": 27,
+   "kind": "replicator",
+   "program": "9b5b67512d5b9acbcc1e2e411b7b3c5d765bfe3c5bfffffe5d362d375a5a7c46c95d5d5d3e2c3e4630307d7d2c466e02023e2a45047d7d2cff2a01267dffff79"
+  },
+  {
+   "epoch": 420,
+   "key": "}}[,{<]}}}[,{<]}",
+   "count": 2,
+   "score": 60,
+   "kind": "replicator",
+   "program": "7d1c0000ec7d1c008e8e1b1b1a015bfe2c7bfe00025e316b923c5df97d7fbae17d1c0000ec7d1c008e8e1b1b1a015bfe2c7bfe00025e316b923c5df97d7fbae1"
+  }
+ ]
+}
