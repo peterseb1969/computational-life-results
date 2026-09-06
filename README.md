@@ -41,3 +41,11 @@ python3 bff_compare.py /path/to/computational-life-results/archive --csv runs.cs
 
 A run that ended without a transition counts as censored: the survival table uses
 the Kaplan-Meier estimate, so it contributes for the epochs it covered.
+
+## Duplicates
+
+`duplicates/` holds archives of runs that repeat a seed already in `archive/` on another
+machine. Same seed means the same universe (the pairing of every epoch derives from the
+seed), so they are cross-machine determinism checks, not independent observations, and
+`bff_compare.py` does not read them. `mac-mini-44` reproduced `ps-macbook-pro-44` exactly:
+same events, same winners with identical counts.
