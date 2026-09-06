@@ -1,0 +1,421 @@
+{
+ "run": "ps-macbook-pro-20260907-g",
+ "protocol": "128k-8192-heads-init-winners",
+ "host": "ps-macbook-pro",
+ "num_programs": 131072,
+ "seed": 16901550279202832086,
+ "cull": {
+  "replicators": 50,
+  "interval": 4
+ },
+ "last_epoch": 93936,
+ "stop_triggered": {
+  "epoch": 93936,
+  "reason": "culled 50 replicator origins (origin-rate experiment)",
+  "stop_at": 93936
+ },
+ "culls": [
+  {
+   "epoch": 8,
+   "key": "{<{<,.,[[[{,+,<][<<,<{[.,",
+   "count": 2,
+   "score": 59,
+   "kind": "replicator",
+   "program": "7b3cb27b00003c95b62cf55f69002e2c5b5b5b7b002c02402b00d33f2cf4593c4f5d5bfc4f3cf4503c2cc640d93c7b5b5840402ea68e008e9c2c5f6a004c4c4c"
+  },
+  {
+   "epoch": 8,
+   "key": "},<,}[<{,]{{}+[[],{..},{}<}[]<},[[[,",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7d3b2c3cf92c527d895ba73c7b0f5c2c5d7b937b7d2b5b5b5d2c7b422e2e277dbb2af5422cc47b7d3c7d2a5b82babe024bcc5d3c7d279e7640ba2c5b5b5b0a2c"
+  },
+  {
+   "epoch": 12,
+   "key": "}[,<},,>[[>},]}<,[},[[[}[,<},,>[[>},]}<,[},[[[",
+   "count": 2,
+   "score": 58,
+   "kind": "replicator",
+   "program": "1e7d5beb2c923c7d2c2c563e5b9a9a5b3e7d2c5d7d3c922ceb5b7d1e2c5b5b5b1e7d5beb2c923c7d2c2c563e5b9a9a5b3e7d2c5d7d3c922ceb5b7d1e2c5b5b5b"
+  },
+  {
+   "epoch": 12,
+   "key": "}<}[[,<{,].<}[<,[+>.>],}][,.,<[<<,][}<{,[>>,",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7d3c7d4d475bd05b2c67c13c7b2c5d2e3c7d455b743c2c5f5b042b173e2e3e7a5d2c7df1405d5b2c2e2cbe7cbde93c5b3ce53c2c5d5b7d3c7b902c5bc23e3e2c"
+  },
+  {
+   "epoch": 32,
+   "key": "<}>,[[[[[[[[[[[[[[[[[,[>},][[<[[,[[<{>,",
+   "count": 2,
+   "score": 61,
+   "kind": "replicator",
+   "program": "3c7d59b03e11582c5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5a5a125b2c18a85b3e7dcce50f2cb25d5b5bff3cdf675b5b1de02c5bd7703a19c25b3c7b3e2c3f15"
+  },
+  {
+   "epoch": 32,
+   "key": ".[<{,]]>},,[]],}]]],.[{[<,,[,{",
+   "count": 2,
+   "score": 46,
+   "kind": "replicator",
+   "program": "ee2ee3aec65b3cc25a4b88d90f7b772c5d89f1dc5d3e7d2cf8292c5b5d5dac3d2cbf1f7d375def5d7f5d2c2e5b7b5b403cbb26f7812c2cf45ba72cdc1818707b"
+  },
+  {
+   "epoch": 36,
+   "key": ",[<.{]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]-+,",
+   "count": 4,
+   "score": 64,
+   "kind": "replicator",
+   "program": "40ff2c205baac44d3c402e7b5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d5d012da8ff6ac42b9040ff2c"
+  },
+  {
+   "epoch": 40,
+   "key": ".[<+{,]][,]],}]]],.[{",
+   "count": 2,
+   "score": 38,
+   "kind": "replicator",
+   "program": "ee2ee3aec65b3cc22b4b88d9557b852c5d53405d9e355b1ef85c2c315d5dac3d2cbf1f7d375def5d7f5d2c2e5b7b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b"
+  },
+  {
+   "epoch": 40,
+   "key": "}>>[},.{[[,,,<{][}>>[},.{[[>>[,[[[,.,}<",
+   "count": 2,
+   "score": 63,
+   "kind": "replicator",
+   "program": "7d3e3e5b407d2cc82e7b345b74445b2c2c2c46678c3c7b2a40fd5d5b7d3e3e5b407d2cc82e7b345b74445be2003e3e5b2c5b8e5b625b039a2c402e2c7f7d833c"
+  },
+  {
+   "epoch": 52,
+   "key": "][[.>},.,][<<..-<[",
+   "count": 2,
+   "score": 29,
+   "kind": "replicator",
+   "program": "9d5db55b5bb7b7b7b52e3e407d7f9c9e999b2c2e2c5d5b3c3c2e2e00002df0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f06af0f0f0f0f0f0f0f03cc46a5b"
+  },
+  {
+   "epoch": 64,
+   "key": "{}<>,{,[},>]<][..[",
+   "count": 2,
+   "score": 64,
+   "kind": "replicator",
+   "program": "4000007b007dcaa2d7263c373ec8c5162ccaca007b81cacacaca1d1dca2ccacbcacacacacbcacacaca5b346f7d902c3e375d3c5d005b5e00402e90e9db2e5b4f"
+  },
+  {
+   "epoch": 76,
+   "key": "{<{,{,{},{}<{,{{,{}<{,,,}}<[{<,,]{{,{{,[[{[[",
+   "count": 2,
+   "score": 59,
+   "kind": "replicator",
+   "program": "7b3c7bc3c32c7b2c7b7dc32c506d7b7dc03c7b2c7b7b2c506d7b7dc03c7b2c2c2cc36da77d507d3c5b7b3c2c7ac02c5d7b7b2c7b7b2c6dc05b6dc0c05b7b5b5b"
+  },
+  {
+   "epoch": 120,
+   "key": ",,,,,,,,,,,,,[,,<{],]{{{[[",
+   "count": 2,
+   "score": 45,
+   "kind": "replicator",
+   "program": "ec2cec2cec2cec2cec2cec2cec2cec2cec2cec2cec2cec2cec2f1414142c985b2c2cec3c7b980000b0985d2c5d7beaea7beaeaeaeaea7bfeeaea8cfe5beaea5b"
+  },
+  {
+   "epoch": 132,
+   "key": "}>{[[[[[[[,,{<][+++}..",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7d3e5c406c7b5b3b005b5b5b5b5b5b2c2c40e5087b3c5d8cfa5a5b2b578b8be2595a3a3b462b3a3b7a3a2a3f2b2a295a86827d1a1c827f82828282042a8b2e2e"
+  },
+  {
+   "epoch": 160,
+   "key": ">}[[<..{]+][>}>}",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "3e7d385b93938401845b3c882e2e93939393938493939393939392d4f67b0293935d93939393939201a101929393939393930193012ba35d5b3e7d3e7def017a"
+  },
+  {
+   "epoch": 252,
+   "key": "}>[{+,{}<]<}>[{+,{}<][",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7d3e3418755b7b74763b2b0174742c7b7d3c5d7f00740076bf7374003c3400007d3e3418755b7b74763b2b0174742c7b7d3c5d7f00740076bf7374743d5b39a7"
+  },
+  {
+   "epoch": 304,
+   "key": "{<{[,{<,,]]]]]]]]]]]]]]]]]]]]]]]]",
+   "count": 4,
+   "score": 60,
+   "kind": "replicator",
+   "program": "7b3c7b437a5b7aff4c437a2c01a37b3c7a757a757a5c7a2c7a3d7a5a2cff7aff5d5d5d5d5d5d5d5d025d5d5d5d5d5d5d5d5d5d5d5d5d5d0275025d5de0fc41ff"
+  },
+  {
+   "epoch": 1000,
+   "key": "[>},]}}>}}",
+   "count": 2,
+   "score": 28,
+   "kind": "replicator",
+   "program": "1b5b3e7dff2c5d5ff45ca06d413f7d3ffe0e867e0b637dfc3e7d5f59fe555555555555555555559293930607347d36fe36fe39419201417f2636e7b02583877f"
+  },
+  {
+   "epoch": 1664,
+   "key": "{[<-,,,{]<-{[<-,,,{]<-<{[<-,,-",
+   "count": 3,
+   "score": 59,
+   "kind": "replicator",
+   "program": "7b3a5a5b7c3f733c2d2c2cfc5c2cda7b5d033c2d1e7b3a5a5b7c3f733c2d2c2cfc5c2cda7b5d033c2dfc3c713a3d1e7b3a5a5b7c3f733c2d2c2cfc707a702db1"
+  },
+  {
+   "epoch": 9132,
+   "key": "<.[>},],.,,,{,<,{,<{",
+   "count": 7,
+   "score": 61,
+   "kind": "replicator",
+   "program": "3cfc462ffcfd2eea395b03796263633e1a7d0c056e13ea112ce85d082c3b182ffd2e791a0c05e64001b734122c2c2c7b2c3c2c48075e267b7c2c3c487bd4f849"
+  },
+  {
+   "epoch": 12216,
+   "key": "[,}>]",
+   "count": 7,
+   "score": 64,
+   "kind": "replicator",
+   "program": "400039003b0039003b3b5b3b5345fc8401091eff00401f40de40d940034077402c3f0d400c402f40034044440000f27d3e40ff01fadd700a04f9025d40e72a5e"
+  },
+  {
+   "epoch": 15400,
+   "key": "}[,>}]<,].",
+   "count": 4,
+   "score": 59,
+   "kind": "replicator",
+   "program": "3d7d22ef5b292a292c3e297d7afb5d3c156535010159000059307947793479477901781a1a1a1a59332c1a591a1a59592a5a59db7a01595d59ff592e371ede9f"
+  },
+  {
+   "epoch": 17408,
+   "key": "}}<[>.}][-,,,",
+   "count": 16,
+   "score": 58,
+   "kind": "replicator",
+   "program": "fa383b227d3b4b4bfbfffe25fe45467dff240c433cfc5b06583e28336133fd3435b21927b1dddc09ebfa2e7d5de94c5b252df22c2c2c1a9907980f0404173a3b"
+  },
+  {
+   "epoch": 18676,
+   "key": ">[}<>,,>]",
+   "count": 5,
+   "score": 62,
+   "kind": "replicator",
+   "program": "3efd3f3d1678ff665e2500005bfe4c00d119377ddd443cddf8179d00000020839d1b9d799d796985bf0f1c5c38dc9ffe6e539fb99f3ef6152c9f9f2c3e5dfefe"
+  },
+  {
+   "epoch": 20844,
+   "key": ",+[,{<]<]..,+[{",
+   "count": 4,
+   "score": 62,
+   "kind": "replicator",
+   "program": "fd3d2c2b045b893f0088a9000201012ca9001919fe4b7e7be6d53c4d0300fd5d00003c00fd5d0100873d2e2e3d2c2b045b893f0088a900fe4b7e7be6d5194241"
+  },
+  {
+   "epoch": 28988,
+   "key": "<[,}><>]}+]}<<,-->,>",
+   "count": 5,
+   "score": 60,
+   "kind": "replicator",
+   "program": "3cfcfd855b2c7d3ee74d628eef4931b93dfcfd3c3e5d7de45c2bcafb5d597d357e86064007e43c3cff2604e4382c7e762dfd7e067ae4fd2df63e2c3e4bf1e801"
+  },
+  {
+   "epoch": 29364,
+   "key": "[[<,{][[[",
+   "count": 8,
+   "score": 58,
+   "kind": "replicator",
+   "program": "fa39455b5bf70f1dea3bea3133313ce92c3024f1e8e73d16feeb7beb81eb5debfaeb39eb45eb5beb5beb5bf7ebf70feb0f1deb1deaebea3beb3b9be15228098a"
+  },
+  {
+   "epoch": 35620,
+   "key": "{[<,{]",
+   "count": 4,
+   "score": 47,
+   "kind": "replicator",
+   "program": "6f2f152a15217b03474883233d223a023f5becfcd8d93c2c5450fe544470d7ff6951d9fefc047b5d1f5907590759fd5e5f565656565656565651565656565627"
+  },
+  {
+   "epoch": 35940,
+   "key": "[},>][},>]",
+   "count": 5,
+   "score": 64,
+   "kind": "replicator",
+   "program": "20ff4866245bf2fd7c34f4f4f27d782c46c0f7fffff73ef6164e5df701c634f720ff4866245bf2fd7c34f4f4f27d782c46c0f7fffff73ef6164e5df701c634f7"
+  },
+  {
+   "epoch": 36640,
+   "key": ">[+,,{<]<-,,--",
+   "count": 5,
+   "score": 58,
+   "kind": "replicator",
+   "program": "f839f53e033a5bee1278787878787a78fc78782b2cdc3a2c1f587b17162502603f79cd3cfbe74fd35d3c2a45542d222c2c012ddb2dfe0009090906440844447f"
+  },
+  {
+   "epoch": 40524,
+   "key": "[,}>,>}]],}>,>}]],,,,}>,>}]],}>,>}]",
+   "count": 6,
+   "score": 63,
+   "kind": "replicator",
+   "program": "3f7f185b78632c7d7c3e2c39023e7d3d5d5d2f632c7d7c3e2c39023e7d3d5d5d2ccd2c2c60632c7d7c3e2c39023e7d7c5d5d2f632c7d7c3e2c39023e7d3d5d0c"
+  },
+  {
+   "epoch": 41456,
+   "key": "-[[<{,],+,]+,,",
+   "count": 5,
+   "score": 59,
+   "kind": "replicator",
+   "program": "fb3b2d5b5b012f01375e363c7b4c02fe016a110f2c3b5d3d2c0d0b9403374d022b03504f4c014f0201016a110f2c3b5d3d2b2c2c6a8b8888778207fa726acfd8"
+  },
+  {
+   "epoch": 47524,
+   "key": "[}>,]>+,>,[}>,]>+,>,",
+   "count": 5,
+   "score": 56,
+   "kind": "replicator",
+   "program": "1bfb5b08fb08081b7d56023e1b2c415d3e2bd031a5454480402c3e2c553156551bfb5b08fb08081b7d56023e1b2c415d3e2bd031a5454480402c3e2c55315655"
+  },
+  {
+   "epoch": 52444,
+   "key": ",[<{,],],",
+   "count": 5,
+   "score": 61,
+   "kind": "replicator",
+   "program": "fcbc136f3f0a0af01f5c85fa2c5b3c307b3601020e59ff2c2f3091fa0428c02f595d5ccc2c380f3fcc222225031703773334cc025de2096c282c28fa2987d001"
+  },
+  {
+   "epoch": 52600,
+   "key": "<..[{,<]}[[{<]}[[{<",
+   "count": 4,
+   "score": 57,
+   "kind": "replicator",
+   "program": "f939f2b0eff93c2e2ecac1005b441ce92a292f7b002c3c00c1c100305d427d5b01ffe15c5b7b003c00c100c100305d427d5b01ff5b7b003c0025460d0d410024"
+  },
+  {
+   "epoch": 53328,
+   "key": "[[.<{]",
+   "count": 9,
+   "score": 64,
+   "kind": "replicator",
+   "program": "3fffba0b5a555e5bfefd24fef502f5e8e8805a245bf5f50cd4d1e70207025ea23de6e6e6362e05d8e6e6362a6d3c46fc46470184327b6629933abd05fc5d3605"
+  },
+  {
+   "epoch": 56120,
+   "key": "<<>[,}>]<",
+   "count": 5,
+   "score": 58,
+   "kind": "replicator",
+   "program": "3dfcfc4a551b250000253023334d68200125234d20254d25251c063b3c3c1d403e7755551f545a053f293b842fc25b012c287d11faf73ee85df63c2f3b3b3dff"
+  },
+  {
+   "epoch": 56376,
+   "key": "..-[[,,<{]{.[",
+   "count": 4,
+   "score": 46,
+   "kind": "replicator",
+   "program": "6e2e002e0000fc2d00005b395bfa2c2c3c117b67005d5400007b6700692e680800e0132929290029002900395bfa113f293ffd283fff47dcdcf9e9b7f700faf8"
+  },
+  {
+   "epoch": 56848,
+   "key": "<[,<{]<[,<{]<[,<{]<[,<{]",
+   "count": 9,
+   "score": 60,
+   "kind": "replicator",
+   "program": "008fd6d43c5bfa2c003c8f7b00005d00008fd6d43c5bfa2c003c8f7b00005d00008fd6d43c5bfa2c003c8f7b00005d00008fd6d43c5bfa2c003c8f7b00005d00"
+  },
+  {
+   "epoch": 58412,
+   "key": "[<{,][<{,]",
+   "count": 13,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7f9f4bc6e4295b303c4e11523b7b2c5d3af4fffed9d70953d7f8f83853f5f53d7f9f4bc6e4295b303c4e11523b7b2c5d3af4fffed9d70953d7f8f83853f5f53d"
+  },
+  {
+   "epoch": 63544,
+   "key": "][<,{][<,{]",
+   "count": 10,
+   "score": 29,
+   "kind": "replicator",
+   "program": "5d1c6d5f405b3c5f2c8f017b5d1c2a5f405b3c5f2c8f017b5d1c2a5f40f9f9f9f9f9f9f2f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f9"
+  },
+  {
+   "epoch": 63716,
+   "key": "[{.<]",
+   "count": 12,
+   "score": 58,
+   "kind": "replicator",
+   "program": "39fafa5bdaf910f9e1fa47fa58ff7bfab2fafafa2efab0fab0fa473caff9aef920f9aff9d4f95dfa01f93f3d3df9aff9f3fd61f469f926f9f03b41f6f9f9fc06"
+  },
+  {
+   "epoch": 70856,
+   "key": "<[{..<]+",
+   "count": 4,
+   "score": 61,
+   "kind": "replicator",
+   "program": "3cfd020625f431344d4c77011bcb1b5b14f959363639371b1a191a7a131a7b1a1919181a1909712e1967191819192e02813c3d5881a85d5cfc2b30df7209f745"
+  },
+  {
+   "epoch": 70972,
+   "key": "-<,[-[[[,,,,<{]",
+   "count": 12,
+   "score": 60,
+   "kind": "replicator",
+   "program": "fc3b2df73c3d0a2c294dff5b022d014701fe5bfb5b5b7a2c2c2c2c2564255e5e3c3ae81b1d2a27272a30fc7bffc9795dfefb1725fdaa020b564d4f4d04030326"
+  },
+  {
+   "epoch": 71288,
+   "key": "-<-[[,,-[{,<][<",
+   "count": 6,
+   "score": 63,
+   "kind": "replicator",
+   "program": "ff3f2d56f0f00e3cf00203d35c2d014b5b175f025b0c5a1c2c2ccd2d01212158207a00f25b32317b2c3c0d5d495b1d552af65657fd003c757e36367e1b357545"
+  },
+  {
+   "epoch": 75136,
+   "key": "}>>[+,{<]<..[,[],,[[",
+   "count": 7,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7d3e3f72073e5b2b3afc3a2c327b063a3c9c5d3c3bfafafa11101110111011101110573fe99c2ef82e5a2f8529565b56565a592c5b0d5d2a2c2a2c1f5b5b0d36"
+  },
+  {
+   "epoch": 75816,
+   "key": "<}[.>}]",
+   "count": 7,
+   "score": 32,
+   "kind": "replicator",
+   "program": "611f67b9ca020c6302bf3c027d6202405b02f733022e2f0267412ad73e7d415d38bd39e2e1e2e3e4e7e6e7e8e9eaebecede8eff0f1f2f3f4f5e8e7f8f9fafbfc"
+  },
+  {
+   "epoch": 87548,
+   "key": "<}[},>][<",
+   "count": 4,
+   "score": 54,
+   "kind": "replicator",
+   "program": "b7f4f300f8f814143030ff186d00b330fa3cf87dca6464ff648d4a5b7d012c1a1c846d014b013e1a2a01fb8f0f8d30015d01305b3c4a4c0c22fbc77a2404044b"
+  },
+  {
+   "epoch": 88036,
+   "key": "+[,,,{<.-+,]",
+   "count": 12,
+   "score": 51,
+   "kind": "replicator",
+   "program": "33f32bcf5b2c2c1d16161c1febce1b91162c7b16d627d7d814353cfef8fa29f8f2882e2d0f2b4a2216771c4d1f2ceb4dcede5dfbfbfbfbfbfbfbfafbdffbfbfb"
+  },
+  {
+   "epoch": 93936,
+   "key": "[}>,]][-",
+   "count": 5,
+   "score": 53,
+   "kind": "replicator",
+   "program": "3474fd5f5bfffe5a7dbef442270a606e01fefe3e33fd7a84ff2cfe5d5afd7efdfffe5a180a35605d34355c865ffd6ec85b2d016e6ef90b0b1913595911191304"
+  }
+ ],
+ "lineage_species_removed": 150533,
+ "note": "lineage removals (150533 species) dropped from this record; replicator origins only, with program bytes"
+}
