@@ -1,0 +1,6851 @@
+{
+ "run": "peters-mac-mini-m4-pro-20260907-c",
+ "protocol": "128k-8192-heads",
+ "host": "peters-mac-mini-m4-pro",
+ "num_programs": 131072,
+ "seed": 15962233754427687309,
+ "cull": {
+  "replicators": 30,
+  "interval": 4
+ },
+ "last_epoch": 42052,
+ "stop_triggered": null,
+ "culls": [
+  {
+   "epoch": 6488,
+   "key": ">[<,{.>[<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "+<>[<,{]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<]<,<<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "[[],,],<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><,]><",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<],<]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".,]+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<].<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><,<,<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><,{]+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<>{,<[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[{,]+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".],}<[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<],[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<,-+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[{,{]+<.]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<,{]+<.",
+   "count": 11,
+   "score": 63,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 6488,
+   "key": "><<,].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<+<<,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<,{{.<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ",<<,,],<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "][<]+.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<,{+.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<,][>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<,{>[<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">><{++<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<,{]+<..",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><<[]]+<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<}+{{,,[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<],[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[,[+>.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[]<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "[]<>,{]<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[],]+,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<,{<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">-,-+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><{++<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<+,>",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<,{{<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".,<++{<{>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<,]<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "][],{+<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><<,,-<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<,]+<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">,,,]+,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<,{--",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><+],,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<+[<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<++,<<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><,]<<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<,.+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "]+[<,{,{<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<<+}{,[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ",+],<,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><+<.,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[>[},{]+.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".{++{,,+>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<,],<<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">-,{+.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "+{,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">->,{-+<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><[{]]<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><,+++>.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "..],,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[.<,[]<-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "[.,]+<.,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[[]+,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<+,,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">,.]+<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".+][,[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><<{+-.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><,]<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><,+<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".+{,.->",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<+>,,,[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<+]<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<{]+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ",{]+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">]<,]++",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<+,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".-]{,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<<+++,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".++]{<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "[<,+<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[,]+>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<,{[<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[,]]<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">[<>]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<<]<,<{>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">><-]+<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "{<{.+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "+<+].<<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">],{].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "[<[]+<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "}<,]{,[[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "-+<,+]+<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "<+],<,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">,<,{,,,<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "{<,{+<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "+],<>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "[<>]<<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<,+<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "[<]+.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ".<],<<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><<,..<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">{{,]<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": ">]<,,{<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "[<,{<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "{.<{,[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 6488,
+   "key": "><<,]+,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]}<,>{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{>,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{{>,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "}},,>,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": ".{>,}]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{,,}.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]},,>+,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{[,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "],,>{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{[>,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{[>,,}]{",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]],,,{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "++,,>,{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]-],,>{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{<[>,,}[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{[>,,}]",
+   "count": 6,
+   "score": 56,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 9032,
+   "key": ">,,}]",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]}],[{>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": ">{.,>[{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "+},+,>{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]},,[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "].,,>[[>{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]+,,>{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{[>,,}]<>",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{{>>}]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{[>,,}],>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "],,,>[.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]},],>{[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]},,><,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{>,,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "}[,,>{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": ",,,,,[{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": ",},,[{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "+,,[{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]-,,[]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]]},,[{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "].,,><+{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": ",,,>+{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{-{,,}{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]},,.{}",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "],,>[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{+,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]],>{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{[>,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "]>>[{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{,,}]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 9032,
+   "key": "{{{,,}",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{<<,,,,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,{{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{{<-,,+,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,>{],[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,+,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,{",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",{<,,-,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<,,,,,",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]].<,,,},",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",>{,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ">{>,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]]<,,],,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,{{",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]-,,,+,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]]<,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,<<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,],",
+   "count": 4,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<<,,,,,",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[,,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,]<,>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[[,,,-]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,[{{]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,-,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[,,[,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,+,,,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",{<,,,,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,{{{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,],{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{]><,[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]]]",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{,[",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{],,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,]",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<,,},+,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<,,,,,-",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<<",
+   "count": 4,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,{,,,,{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<,<,,[,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,,",
+   "count": 6,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,.,.]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,]+",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".,><,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]{],,>,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{<,,,--,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,}]-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[]]],,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,<,,,,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[]<,,,,-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]",
+   "count": 13,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]},,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,,,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<<,,,,,",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{],,,,[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ">{+<,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,,,,-,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[,,,]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<>,<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{,,,>,}",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "}<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,<{}",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",].+,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,,,",
+   "count": 5,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<,,[,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "+,,-,,,<]+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "+<,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,<{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{],,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,],,,<.<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<",
+   "count": 15,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,[],",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,.],,<-]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]]<,,,,,+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],<,,,{{]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,{>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{<,-,-,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,].]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,{<{,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",.{,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<,,,,,,",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,,[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,]",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<,,,,,",
+   "count": 7,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<]>-,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,][,,,.][{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[,]<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{+,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,-,,,<{<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",.,,,{],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,][]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<,,,[<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,-,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",].<,,,,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".]<<,,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{",
+   "count": 6,
+   "score": 57,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,-,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<,,,-,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",-[,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],[,]+{]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "-,<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<>>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{-,,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],+,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".,,,[,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{.,,,,>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,],,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]<",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],-,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[,,,<{]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{]>",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,]-,,,,<{]{.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[,,,<{]{]{.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<,,,,<]]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,{.{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[,,,{]-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{,,{{,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,>,,,<<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",>,,<{]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]}<,,,},",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,.,,,>]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<<,,,,,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<<,,,<],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[,,,[,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,<,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]]],,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,-,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,{+,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{.-,,[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{<,},.{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,{.,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,]],,<<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".,<].,,<{]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,[,,,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,]<]],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,-{}[]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<,,,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]-,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ">]{,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,<,>{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]]-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",]{,,,,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[]]],,,[<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]--,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,],",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".[]{<,,,,-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<,+,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,]<+]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "].{,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[,,,<{]{,[>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,],,,{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,,<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[+,,<{{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",+,,,<,]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",]{,,,,+,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,[,,",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[]<,,,[><",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,-,,,.]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".],,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<<,,,,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,++,,<,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,<,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",]{{,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{.{<+,,+,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",{>,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",],,,,,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,{{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,[],{],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,,.,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{,,,,,,,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,{",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",]-,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "-{>,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,>,,,<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,[,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[,,,<{]{,<{]{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<,,,,}",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<,,,,,+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "-<,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<,,,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,<{].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],>,,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,<{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,<,,,>,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]++,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "-,<,,,-,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,{,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,.,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,],,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]}<,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,<,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,.,,,],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]]<,<,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,+<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,,+{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,{,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[]>,<,,-[,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,>,{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,{]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",],,,<,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<<,,,,[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],]<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,{}{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<<,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<,,,,<{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,<]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{<,,},,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]]+,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{{{",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{,,,,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[]-,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{{,[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",],,,-,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{-<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "].<>,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]{,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]{{,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[[,,],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,+]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<,",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ">+,,<{]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,],{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<{]{.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".<<,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,{{],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,>>{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<,,,+,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{<<],,<,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<{,,{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[},<[]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<<<,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,+,<[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{.{,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,><]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[,[,,,><]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "-,},,,]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<<,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,]],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,,{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".{,,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",{,,,-{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "-,,,,{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",>[,,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,>+,,<,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]{],,,<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",]-,,,{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,[,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "].,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,{,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",]<,,,,<,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[[,,,--[{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{]+,,,,,,+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,>,{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,+,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<-,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "+,+,,,<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,-,,,-]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "+,,,,<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",]<,,,{,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".,<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]{,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,.]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,,,,,,-,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "+,,<,,,<,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",]<.,,,],,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,<{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "[],,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,]{,,{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",+,,,,><{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,],,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{>,,,{,,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]+,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<<<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<]}<,,+,[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<+,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<><]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "},,,,<<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,-,],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,-+<-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,[,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,<,,,<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",.,,,<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "+,,,,<{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".,,,<{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<,<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<<>+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,{",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{<,,-,-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<],],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,++{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,<,,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,+]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,-,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "-<,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "+,,,{<{-{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,>,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],,,-,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{,,,,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,+,,,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{.,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,]{<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,>,,,}]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "],<,,,,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[[,,,[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{},,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",{},,,,{{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{,[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,>],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,,].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<<<,,,-,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<<..",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[,,,],],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<,,,},,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,+,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[,,,+]-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]>-,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "->]<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[+,,.]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,.,{]{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]-,,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,>,,,<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,<{]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,{+,{]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]--,-,[,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,+,]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,<..",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ".<,,,,,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,]]]+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<-,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,{,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,--,,,<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,<{{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,-,,>+{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "<<<,,,<,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]],,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<,,,+,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,+,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,[,,,<{]{].-.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,,,,,,.,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,<,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",[,,,<{]{,}}",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "+,<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]-<,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{+-,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]]]<,-,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,,<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,[,{{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,.,,,<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",<[,,,,]]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{<-,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,-,,,<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,<].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,}<[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "][,,<]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ",,,,,]][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "{{.,,,[>[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]<,},,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": ">]-,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10092,
+   "key": "]+<,,,,,,+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[,,,,]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[,,,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[,<,<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[+[[,,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[[[+,]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[[,,,{<]-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]]{,,,]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ",,,,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">,,,{<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "><,,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">,+,,,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "<,,,,[[-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[[,,,{<]",
+   "count": 4,
+   "score": 48,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 10304,
+   "key": ">[.,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[[,,,{<],,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "],,,.[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[[[,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[[,,[,+[<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]]],,,[-[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "].],,+[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "<,,,,,-[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[[,,,{<,,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[,,,]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "][,,,[>>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "<,,,[[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]>>],,[[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[,,,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]>,,,[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[[,,,{<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "<]>[[[,,,{<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[[,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "],,,,[[],>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[,,,,<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[[,..{<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ",,,[[>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]{,,,,>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]<{,,]][[>]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[[[],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[<,,,[[[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ".<],[,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[,]}<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]}{,,,>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "<{,<<,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[}[,,>,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]<.,,,[<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "+[[[,,,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]+,,,,,[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[,,,+,],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ",.,,,,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">++,,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "-,,,{<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "]<<,,><[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "<,,,,,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[,,],[<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "][[[,-,+]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">]+,,,,{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ",,,[+[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "][-],,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">[[[,,,{<]<-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[,[>{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ">][[,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ",[[[[,,-,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[++,,,]<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "-][[,,><]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "],,[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[[[],,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": ",,,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 10304,
+   "key": "[[.,,,[,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 15672,
+   "key": ">,[[}>,,]].>,[[}>,,]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 15672,
+   "key": ">,[[}>,,]].>,[[}>,,]",
+   "count": 5,
+   "score": 62,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 15672,
+   "key": "+<--->,[[}>,,]].>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 15672,
+   "key": "[}>,,]}>,,]].>[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 17636,
+   "key": ",{+{[.}}{>][",
+   "count": 8,
+   "score": 62,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 17636,
+   "key": "[]><.[{,{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 17636,
+   "key": ",{+{[.}}}}}>[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 17636,
+   "key": ",+{[.}}{>][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 17636,
+   "key": ",{+{[.}}{>[[+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<<><,],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,<<,,-,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<><>,]<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,>[<{,],<",
+   "count": 5,
+   "score": 61,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 19772,
+   "key": "<>>><,+,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "-,>+<{,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,],+<->,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,]<..,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",],<{,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,-,],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",><,],]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,>[[,],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",],,<,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<><<<,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",]]<>,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",><,,],<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,>+<,+,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,}<><",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,,<><",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",>{{,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,.<>,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,><,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,<>,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,<<<>,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<{><,,]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "-,[<],]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "],],><>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<[<],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<>]{,]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<],><>><<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",]<<[>,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,],<],]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,>><,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,<<,,+,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",}],<>,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,,{<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",]<>,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,,<>,<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<<,><,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,],<>>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",><,,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "{,],,<[>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "+,>><,],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<],>,{{,{,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<><],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,]>>{,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,>]]{,],,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,>[<{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,<,,<>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,><<<,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,<,{><",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<],{{<,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,<><<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,,,<><",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,<,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,<>,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,>,{{,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,>.<,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<],-<<><",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",.[,,,],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,<>,.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,.<>.<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",><.,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",[,],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,<,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<<><[],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "+,][<,]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "],[<[,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "..],<,>,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ">,,><{,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",><,,],.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "]<],]<[>,-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<[].,{[],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",],.<,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<>+,],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,],<{,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,-,><+>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,<,,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "<,,,<,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": ",,><{,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 19772,
+   "key": "[]>[,],<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[[[,<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "][[,++[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],,,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[++,{<]",
+   "count": 7,
+   "score": 64,
+   "kind": "replicator",
+   "origin": false
+  },
+  {
+   "epoch": 32984,
+   "key": "]<,[[",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[<]-{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "].,+++[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]<.,+][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",++[[-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],,->[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[-+]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",.+++,,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "<,+++[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[+][+<{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[][[[[{<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]+[++,.<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],-[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],,,++[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",+,{<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[[,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[[,<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",]<,-[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[<[,[<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[]+,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "}<<,+[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "<,<++,{,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]<,++...",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],.,]+[[.[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "<.,+-[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[>{[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "<,[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[,]>]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "-<,--[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "][]++,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],,.+[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",[+[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]{,>[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[+[><",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[,+[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]<++[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]<,++",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "<,,+[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",[[[,{<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "+++,{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "<,{{[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[++,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[[[<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[]]+,]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[],]",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]++{<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "<<<,,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ">[]+-,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "][[+,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "].<{,++",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[,],>>]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],>[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "}{,[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[++[+,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[,[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[+[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]][]+,<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]{{,++,-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "++[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",<{,++,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[++,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "][+,,{<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]-,+}[[<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",<<,[[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],++[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[{++<[]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[[[,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[]+,,++[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]},}[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "-,,,++[,[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],+]+[[][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[++,{]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]<--++>[[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[.++,-.+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "].]<{}++[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[]++,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]<,++>,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]][+][[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[[,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[<,<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "<,++[{[][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]{,+]-[<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],+[+[[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "-[[,+,<[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[,{[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],,,.[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "],.[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[{[-+,{-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ",<<,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": ".<+,.,[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "]<,++.>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "].[++,-[]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 32984,
+   "key": "[[[{]{}]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,],.",
+   "count": 4,
+   "score": 44,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 33312,
+   "key": ",,,<<+,,,,,,,,,+,],>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,],-<",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,,[{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,],><.-..",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,],.>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,],-->",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,],>",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,],,]<+",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,[{,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,-,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 33312,
+   "key": ",[{<+,,,,,,,,,+,],<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]]>>><<",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": ">]<>,[<][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][}<<<<-<<>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[<[,[{<]]-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[[,,+]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<<<<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[><]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "{<][[<[,{<][,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]][<<<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]><>>",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][<][[<[,{<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]}.{,--.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[[<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][[>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[[[,{<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]..",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]],}{",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<-,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]>>,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]{+",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][,,+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]",
+   "count": 7,
+   "score": 38,
+   "kind": "replicator",
+   "origin": true
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][->-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<<]{<],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]+<-,[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][<[>----",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]<{,<<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]>,+",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][[",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[[,{<<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": ",[<[,{<],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]][<[,{<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<[[.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<],]<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": ",.<,[<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]-,<}",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]>[,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[{[{]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]]]",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][>.-].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,[{<]]+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": ".<],[<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][+,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]],,,",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]<[,[<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[,[]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][",
+   "count": 4,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]><-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]].-,,],,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<",
+   "count": 3,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<],<[,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]],,},",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<<,<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[[,{][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<][[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<<<,<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[,{<][[[][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][+<][+>>+++++>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<>>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "][<[,{<]]]]]]]]]]]]]]]]]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[][,-<]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<.,{<].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]+><+>><-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][<][--",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]<{,,<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]<,,,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[,{<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<{-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": ",]].{,[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[,{<][<][>+{-",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][<[,{<][-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[,[<]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]>,<<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<,,[<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]<{,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "][,{<,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<-,<<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<],]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][,[,.[[",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<,,<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[,{<][<][[[[[[[[[[[[[[[[[[[[[[[[[[[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<,..",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]<,,[.[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<>-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][[][",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]]>>>{>>>",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][.,,,---",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]],,]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<<.[<.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "].<,.<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<[,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]],[][",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]]{",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,,]]]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][>].",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]]-,++,--]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]{{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][--",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<],,},",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]][-[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]>]<,]<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<,,<<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]],",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]>>>>>>>>>>>>>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[]<,[<[.",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]<[,,,,,,,,,,,,,,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<{<[-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]}.{.--",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[[[,]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[[[,[<]]{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]<<,,,<[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<,<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]-<-,[[",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<[<>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[-[,,]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[,{<][<][]",
+   "count": 2,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]<,+<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][+>>+++++>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": ",[<[{<],",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[.[,<[]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "]]+>,[<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<,,",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[,{<][<][>>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<][<][,{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "><,<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[,{<]]<<",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": ">[<[,{<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": ",{<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]>,+,[{",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<>+",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "<[,{<][<][]>>]>",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[{<]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[<[,{<]]],][,,]-",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34036,
+   "key": "[+[{]]",
+   "count": 1,
+   "score": -1,
+   "kind": "lineage"
+  },
+  {
+   "epoch": 34776,
+   "key": "+++,+.+++[}+,>]",
+   "count": 4,
+   "score": 64,
+   "kind": "replicator",
+   "origin": true
+  }
+ ]
+}
