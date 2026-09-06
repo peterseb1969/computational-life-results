@@ -30,6 +30,7 @@ unless given with `--protocol`:
 | `128k-8192` | 131072 | 8192 | none |
 | `128k-8192-mut` | 131072 | 8192 | 0.000244 per byte per epoch (the paper's default) |
 | `128k-32768` | 131072 | 32768 | none (the original fork's default) |
+| `128k-8192-heads` | 131072 | 8192 | none; the first two bytes of a tape set the heads (`--heads`) |
 
 ## Reading the collection
 
