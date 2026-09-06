@@ -46,6 +46,13 @@ python3 bff_compare.py /path/to/computational-life-results/archive --csv runs.cs
 A run that ended without a transition counts as censored: the survival table uses
 the Kaplan-Meier estimate, so it contributes for the epochs it covered.
 
+## Experiments
+
+`experiments/origin-rate/` holds the removal records of origin-rate runs (`--cull-replicators`): every
+self-replicator is removed as soon as it is seen, so the file lists when and what arose, not what won.
+`bff_query.py culls` reads a run directory; the JSON here is the same list with the run's parameters.
+These runs have no archive in `archive/` and do not enter the survival statistics.
+
 ## Duplicates
 
 `duplicates/` holds archives of runs that repeat a seed already in `archive/` on another
