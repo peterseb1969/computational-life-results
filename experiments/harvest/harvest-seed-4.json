@@ -1,0 +1,127 @@
+{
+ "run": "harvest-seed-4",
+ "protocol": "128k-8192-heads-init-winners",
+ "host": "peters-mac-mini-m4-pro",
+ "num_programs": 131072,
+ "seed": 1519614316895649523,
+ "cull": {
+  "replicators": 1000,
+  "interval": 4
+ },
+ "last_epoch": 1999,
+ "lineage_species_removed": 11521,
+ "culls": [
+  {
+   "epoch": 4,
+   "key": "[.{<]]},},{[[,.[[,<[,{<<[[<}<,,,}[-",
+   "count": 2,
+   "score": 28,
+   "kind": "replicator",
+   "program": "1b5b742e7b9c3c5dd8405d0b167a7dd52cd87db42ce7e7cc7b5b155b0a0fcbe12c2e5b4d405b2c4c3c5bf32c7b32023c3c86515b5b3c7d0a3c2c572c2c7d5b2d"
+  },
+  {
+   "epoch": 8,
+   "key": ",,.[>,.}]]<<[[[[],<[<,,},.}",
+   "count": 2,
+   "score": 44,
+   "kind": "replicator",
+   "program": "2ced5e07e20d322c2e5b3e2c84572e0a7ddb6f124c5d5d3cecbd403cef75509a5b075bec5b73775f5b4fecec74745d2c3c5b031c3c2c2c5446c77d2cc64c2e7d"
+  },
+  {
+   "epoch": 24,
+   "key": "[[-[,[,{<].}[,,[[<[}.,][,}}>,>[][}",
+   "count": 2,
+   "score": 28,
+   "kind": "replicator",
+   "program": "5b1b5b042d5b732c755b502c7b3c5d2e7d44735b2c2c5b5b3c5b7d9b622e482c5d0253ee075b962c7d7d063ee0212c023e9b62adb95b5de88d42af5c5b787d09"
+  },
+  {
+   "epoch": 32,
+   "key": ",<[[,<}<[+.<[[>},]{,}<[<{.,{[<",
+   "count": 2,
+   "score": 41,
+   "kind": "replicator",
+   "program": "2c67963c5b5b2c95c8656d0f733c7d0aae7275753ccc5b2b2e7539ae3caeff8c965b5b3e7d2cea5d7bd9be73da7ec92c7dbe3c5b3c7b2e2cbf9d0dc97b5b1a3c"
+  },
+  {
+   "epoch": 64,
+   "key": "[.[[,<{]<[[[[][.[[,<{]<[[[[]",
+   "count": 2,
+   "score": 52,
+   "kind": "replicator",
+   "program": "7a1a5bbf2e5b5b01002c940a3c7b5d783c5b658d015b5b5b5dffb1b1b1a926b07a1a5bbf2e5b5b01002c940a3c7b5d783c5b658d015b5b5b5dffb1b1b1a926b0"
+  },
+  {
+   "epoch": 84,
+   "key": "<[<[{,<]->>>>+<<{<",
+   "count": 2,
+   "score": 57,
+   "kind": "replicator",
+   "program": "7c3c5b3c5b6a6e007b2cff9b003c9b9bef5d2de23e3ece3d3e3e2bffffe2e2e2e2e2e2e2e2e2e23ce23c77ffffe2e2e3e3e2e2e2e2e2e2bbe2e2e2e27b9c3cbf"
+  },
+  {
+   "epoch": 116,
+   "key": "}[.>}],[[,,<},,}[.>}],[[,,<},,",
+   "count": 2,
+   "score": 58,
+   "kind": "replicator",
+   "program": "7d1d645b2e3e677dd15d8c912c5c355bccfd5b2ccc892c0a0a3c7d8464aa2c2c7d1d645b2e3e677dd15d8c912c5c355bccfd5b2ccc892c0a0a3c7d8464aa2c2c"
+  },
+  {
+   "epoch": 128,
+   "key": "[},<],[<[<[,]<,}[",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "ffff5b7d4023462c247a3c5d2c5bca00ca3cff625bff3cffffffff23005b2c5d3c7a242c4623407d5bc0016a6affffffffffffffffffffffffffffffffffffff"
+  },
+  {
+   "epoch": 136,
+   "key": "[+-,<{]<]}[][<.[}.<[<<},][}{[}.<",
+   "count": 2,
+   "score": 64,
+   "kind": "replicator",
+   "program": "7f3f5c405bbe002b2d2c3c7b5d3c5d7d655b5d5b4da934933c932e40ddfbd1469b5b7d2efd3c5b3cd83c7d6d2c5d5bc100fbfb7d097b00fbd1469b5b7d2efd3c"
+  },
+  {
+   "epoch": 280,
+   "key": "{<<[[{{,<}[{>,<<][[<<<<<}}}",
+   "count": 2,
+   "score": 59,
+   "kind": "replicator",
+   "program": "7b3cffc858e9ff3cffc8585b8d5b7b7b2c3c7d5b7b3e2ce9ff3c3c5d0058005b005bc858e9ff3cffc83ce9ff3cffc858e9ff3cff5858e9ff3cffc8577d7d7d53"
+  },
+  {
+   "epoch": 440,
+   "key": ",[[,}>]]",
+   "count": 2,
+   "score": 64,
+   "kind": "replicator",
+   "program": "40002c3d3b1d1d1d571d1d1d1d1d881d3a1d5be1405bd42c1ae1f71d7c7c5efe02f11ab4b4c87d3ef87f977ff8005d5dfaf100b442b400b4c8c800403b393939"
+  },
+  {
+   "epoch": 784,
+   "key": "[,,}>]",
+   "count": 3,
+   "score": 64,
+   "kind": "replicator",
+   "program": "4000000404016f5b000035003600d8fe73a100ff00ff1f6100350040fdfefe2c1f2c007d33323e2a5d35003600d8fe73a1001f00ff1f6100350040fdfefefe1f"
+  },
+  {
+   "epoch": 912,
+   "key": "[,<{][",
+   "count": 8,
+   "score": 62,
+   "kind": "replicator",
+   "program": "fe3246db5b2c59db3c7b9a39005d5b00a3ccfd000000000000fd1d00fa00fb00fffe003900ff0000ffcb0100000100ff00001d00fa00fb00fffe003900ff0000"
+  },
+  {
+   "epoch": 1512,
+   "key": "[[[[}>.][]][",
+   "count": 6,
+   "score": 62,
+   "kind": "replicator",
+   "program": "fd3dfe8cd3af285a5b5be6d35a0303035b515b035c743a7dfe3efe2e5d5114fd593dfdfdfdad5c015c5b025cafff095d5c5d5b01d6b75a15f3b8e9ff14fa0d0c"
+  }
+ ]
+}
