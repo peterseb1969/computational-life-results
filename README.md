@@ -32,6 +32,8 @@ unless given with `--protocol`:
 | `128k-32768` | 131072 | 32768 | none (the original fork's default) |
 | `128k-8192-heads` | 131072 | 8192 | none; the first two bytes of a tape set the heads (`--heads`) |
 
+A suffix `-init-<name>` marks a run whose initial soup was not uniform random bytes (`--init-dist`): `ops50` half instructions, `ops100` instructions only, `winners` instructions at the frequencies of the collection's winners plus stop and alignment bytes, `custom` for an explicit key:weight list (recorded in the archive).
+
 ## Reading the collection
 
 ```bash
