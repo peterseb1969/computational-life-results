@@ -28,7 +28,7 @@ unless given with `--protocol`:
 | Protocol | Programs | Step budget | Mutation |
 |----------|----------|-------------|----------|
 | `128k-8192` | 131072 | 8192 | none |
-| `128k-8192-mut` | 131072 | 8192 | 0.000244 per byte per epoch (the paper's default) |
+| `128k-8192-mut4096` | 131072 | 8192 | one byte in 4096 per epoch, 0.000244 (the paper's default) |
 | `128k-32768` | 131072 | 32768 | none (the original fork's default) |
 | `128k-8192-heads` | 131072 | 8192 | none; the first two bytes of a tape set the heads (`--heads`) |
 
