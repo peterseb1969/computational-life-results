@@ -1,0 +1,43 @@
+# computational-life-results
+
+Run archives of BFF primordial soup experiments, produced by
+[computational-life](https://github.com/peterseb1969/computational-life) (`bff_archive.py`).
+One JSON file per run in `archive/`, named `<host>-<seed>.json`. Each archive is
+self-contained: parameters, event epochs, the winning species and families with
+raw bytes, the ancestry of the winners with replayed birth tapes, and the metrics log.
+
+## Adding a run
+
+On any machine with the code:
+
+```bash
+git clone http://gitea.internal:3000/peter/computational-life-results.git   # once
+export BFF_ARCHIVE_DIR=/path/to/computational-life-results/archive            # or --archive-dir
+python3 bff_soup.py --num 131072 --epochs 60000 --seed 47 --max-steps 8192 --metric-sample 32768 \
+        --stop-selfreps 65536 --stop-after 2048
+# the archive is written when the run ends or is stopped; for a finished run: python3 bff_archive.py runs/47
+cd /path/to/computational-life-results && git add archive && git commit -m "Add <host> run 47" && git push
+```
+
+## Protocols
+
+Runs are grouped for statistics by their **protocol**, derived from the parameters
+unless given with `--protocol`:
+
+| Protocol | Programs | Step budget | Mutation |
+|----------|----------|-------------|----------|
+| `128k-8192` | 131072 | 8192 | none |
+| `128k-8192-mut` | 131072 | 8192 | 0.000244 per byte per epoch (the paper's default) |
+| `128k-32768` | 131072 | 32768 | none (the original fork's default) |
+
+## Reading the collection
+
+```bash
+python3 bff_compare.py /path/to/computational-life-results/archive             # table of runs
+python3 bff_compare.py /path/to/computational-life-results/archive --survival  # fraction transitioned by epoch, per protocol
+python3 bff_compare.py /path/to/computational-life-results/archive --families  # winners across runs
+python3 bff_compare.py /path/to/computational-life-results/archive --csv runs.csv
+```
+
+A run that ended without a transition counts as censored: the survival table uses
+the Kaplan-Meier estimate, so it contributes for the epochs it covered.
