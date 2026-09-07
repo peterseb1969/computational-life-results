@@ -1,0 +1,127 @@
+{
+ "run": "harvest-ops100-4",
+ "protocol": "128k-8192-heads-init-ops100",
+ "host": "peters-mac-mini-m4-pro",
+ "num_programs": 131072,
+ "seed": 5516046430829094772,
+ "cull": {
+  "replicators": 1000,
+  "interval": 4
+ },
+ "last_epoch": 499,
+ "lineage_species_removed": 24548,
+ "culls": [
+  {
+   "epoch": 0,
+   "key": "}>.[,{>}[.>}]->[.]}--]><,.-{.+-{,.]-}{{[+]{{---{+,>+}<]-{][>..>[",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7d3e2e5b2c7b3e7d5b2e3e7d5d2d3e5b2e5d7d2d2d5d3e3c2c2e2d7b2e2b2d7b2c2e5d2d7d7b7b5b2b5d7b7b2d2d2d7b2b2c3e2b7d3c5d2d7b5d5b3e2e2e3e5b"
+  },
+  {
+   "epoch": 0,
+   "key": "}>>+[-,,<{]+{+{,>}>+-<]++}>],>],[{]+,,...},..-}{[}+->}}<]]].><+,",
+   "count": 2,
+   "score": 63,
+   "kind": "replicator",
+   "program": "7d3e3e2b5b2d2c2c3c7b5d2b7b2b7b2c3e7d3e2b2d3c5d2b2b7d3e5d2c3e5d2c5b7b5d2b2c2c2e2e2e7d2c2e2e2d7d7b5b7d2b2d3e7d7d3c5d5d5d2e3e3c2b2c"
+  },
+  {
+   "epoch": 4,
+   "key": "<}.<,-,{+.>>[},>][+>]++]]+<,..,..>,,]}}<..->}++<>+<-[>-.},++[,",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "3c7d2e3c2c2d2c7b2b2e3e3e5b7d2c3e5d5b2b3e5d2b2b5d5d2b3c3d7c2c2e2e2c2e2e3e2c2c5d7d7d3c2e2e2d3e7d2b2b3c3e2b3c2d5b3e2d2e7d2c2b2b5b2c"
+  },
+  {
+   "epoch": 4,
+   "key": ">}.<++.[.<{]{>].]}..{{,,>[{<}.>>.[]>,-,>-[{{>+}+>.<+][,>{,,<,,[",
+   "count": 2,
+   "score": 61,
+   "kind": "replicator",
+   "program": "3e7d2e3c2b2b2e5b2e3c7b5d7b3e5d2e5d7d2e2e7b7b2c2c3e5b7b3c7d2e3e3e2e5b5d3e2c2d2c3e2d5b7b7b3e2b7d2b3e2e3c2b5d5b2c3e7b2c2c3c2c362c5b"
+  },
+  {
+   "epoch": 4,
+   "key": "<{--<.[[>},]-}[+-}<--}+,][[{,<+}[-[.[]{++-<,]}{}[,{.[<.-<[>,--",
+   "count": 2,
+   "score": 60,
+   "kind": "replicator",
+   "program": "3c7b2d2d3c2e5b5b3e7d2c5d2d7d5b2b2d7d3c2d2d7d2b2c5d5b5b7b2c3c2b7d5b2d5b2e5b5d7b2b2b2d3c2c5d7d7b7d5b2c7b2e5b3c2e2d3c5b3e2c2d2d7e3f"
+  },
+  {
+   "epoch": 8,
+   "key": "{>{,,+{.<[.[+[,[{[>..,}]<-+,,}.+,,>+,+[,[][{,[-+[,,>]]{.,-,,-,,",
+   "count": 2,
+   "score": 59,
+   "kind": "replicator",
+   "program": "7b3e7b2c2c2b7b2e3c5b2e5b2b5b2c5b7b5b3e2e2e2c7d5d3c2d2b2c2c7d2e2b2c2c3e2b2c2b5b2c5b5d5b7b2c5b2d2b5b2c2c3e5d5d7b2e2c2d2c3d2c2d2c2c"
+  },
+  {
+   "epoch": 24,
+   "key": "}<.}-[[{<,].>{}+,.],,}[,.>,<>+}[-,.,.-,<",
+   "count": 2,
+   "score": 60,
+   "kind": "replicator",
+   "program": "7d3c2e7d2d5b5b7b3c2c5d2e3e7b7d2b2c2e5d2c2c7d5b2c2e3e2c3c3e2b7d7e5b5c3d7e3f3f2d3d2c2e7c7e2f5c7e3d5c3f2c2e5c3f3d3d3d3f5c7e2d2c333c"
+  },
+  {
+   "epoch": 48,
+   "key": "}[>{.{}]}<.]<.]+>]}{.{>[}",
+   "count": 3,
+   "score": 25,
+   "kind": "replicator",
+   "program": "7d5b3e7b2e7b7d5d7d3c2e5d3c2e5d2b3e5d7d7b2e7b3e5b7d5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f"
+  },
+  {
+   "epoch": 60,
+   "key": "[{.[>{.,]>-{->],.{>[.{[",
+   "count": 4,
+   "score": 23,
+   "kind": "replicator",
+   "program": "5b7b2e5b3e7b2e2c5d3e2d7b2d3e5d2c2e7b3e5b2e7b5b8e909294d6d2d2d0cecccac8c6c4c2c0bebcbab8b6b8babcbec0c2c4c6c8caccced0d2d2d69492908e"
+  },
+  {
+   "epoch": 104,
+   "key": ">[[>}.,],--],",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7c3d34383e5b5b4341382fd43434342f3434343434333436340286833e7d5c2f2e2c305d2f2c2d5e2d305d7e2c314341382fd43434342f343434343433343fff"
+  },
+  {
+   "epoch": 112,
+   "key": "]{[<,}]]-+..+-]]},<[{]",
+   "count": 3,
+   "score": 24,
+   "kind": "replicator",
+   "program": "5d7c5c7b5b3c2c7d5d5d2d2b2e2e2b2d5d5d7d2c3c5b7b5d20202728fc2a482a2a2a2a2a2a2a2a2a2a251c1b1b1c252a2a2a2a2a2a2a2a2a2a482afc28272020"
+  },
+  {
+   "epoch": 128,
+   "key": "<{[[},>]],-[-}.+}}[,[[[--,>[]{[<.>],-.[..]]{},-",
+   "count": 2,
+   "score": 60,
+   "kind": "replicator",
+   "program": "3c7b775b5b7d3b2c3d243e5d5d2c2d5b2d7d2e2b7d7d5b2c5b5b055a7c5b2d3d292d5c4141402c3e5b5d7b5b3c2e3e5d2c2d2e5b2e2e5d5d7b7d2c2d1103053a"
+  },
+  {
+   "epoch": 132,
+   "key": "}>.>,-[>+<-[[}>..]++<{[[}.-[.{,<[<+-{}}>-}[[{.}<}{--[.<-]-+<<{",
+   "count": 3,
+   "score": 62,
+   "kind": "replicator",
+   "program": "7d3e2e3e2c2d5b3e2b3c2d5b5b7d3e2e2e5d2b2b3c7b5b5b7d2e2d5b2e7b2c3c5b3c2b2d7b7d7d3e2d7d5b5b7b2e7d3c7d7b2d2d5b2e3c2d5d2d2b3c3c7b7e2f"
+  },
+  {
+   "epoch": 332,
+   "key": "{[,<{]{[,<{]",
+   "count": 2,
+   "score": 62,
+   "kind": "replicator",
+   "program": "ffa020a0243d7b3f015b2c3c01015f015f5f7b5fff50085d505011a008ffffa0812020a0243d7b3f015b2c3c01015f015f5f7b5fff50085d505011a008ffffa0"
+  }
+ ]
+}
