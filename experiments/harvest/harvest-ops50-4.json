@@ -1,0 +1,63 @@
+{
+ "run": "harvest-ops50-4",
+ "protocol": "128k-8192-heads-init-ops50",
+ "host": "peters-mac-mini-m4-pro",
+ "num_programs": 131072,
+ "seed": 7862831172826764969,
+ "cull": {
+  "replicators": 1000,
+  "interval": 4
+ },
+ "last_epoch": 499,
+ "lineage_species_removed": 60,
+ "culls": [
+  {
+   "epoch": 0,
+   "key": "-[>{+[{<><.]}.,->{{]]].<<}-.{>-",
+   "count": 2,
+   "score": 46,
+   "kind": "replicator",
+   "program": "2d6ffe5b3e7b2b5b7bf5843cc03ed23c6c2e5d7d2ed72c59352d3e7bb2a76021107b6aa55d5de45d6b2e3c3c7d85f52d2e7b1aa83e54bad0362dad12add41a86"
+  },
+  {
+   "epoch": 4,
+   "key": "{<<{[[<<{,>>[[}{,<<{>{}][}+++]{..",
+   "count": 2,
+   "score": 59,
+   "kind": "replicator",
+   "program": "7b3ccd7301c03c7b5bff5b3c613cc27b2cd63e3e64b65b5b7df97b2cc8213c3c177b3e7bab9b19d96d7d065d5b22db7d872b2b2b5dd47bf52e14842eba04489d"
+  },
+  {
+   "epoch": 8,
+   "key": ",>,[},>]}{}+{<>[,{>.[}<<{,>-[+-][",
+   "count": 2,
+   "score": 45,
+   "kind": "replicator",
+   "program": "2cec3e9d2c0f6cb65b7d2c3e076f5def7da6377bf6a5f1f0f07d8b2b7b0b3c1c113e515b122c7be013a13e459ba72e5b7d3a3c3c7b2c3e932dae5b4a2b2d5d5b"
+  },
+  {
+   "epoch": 24,
+   "key": ".>{+{[,{<][.+---",
+   "count": 2,
+   "score": 45,
+   "kind": "replicator",
+   "program": "eb2e37de3e7bd9d8b3435a29285a2b3a83247981057b97192a5b2fe40d482c7b81fc3b3c5d594ac0832aeb3a5b2ea07ab42a5a3d2b892d2d2d5cc658295a2a68"
+  },
+  {
+   "epoch": 60,
+   "key": "]<{}[<{+,,,]{{.<,}>>>>,,,>-,..",
+   "count": 2,
+   "score": 28,
+   "kind": "replicator",
+   "program": "5d9c3c127b7d5b653c7b132b2cf62cffeb2c5df0d17b7b5c2e3b3c2c2a407c7d2a25413e3e3e3ea0a02c2c3f083d2c3ea12d422c586a0884312e2e40387c1c41"
+  },
+  {
+   "epoch": 80,
+   "key": ",+->[[,<{]}}}{[<,}}{<-[+-",
+   "count": 2,
+   "score": 57,
+   "kind": "replicator",
+   "program": "77382c2b2d31cfcaa9953e2223a1a2a1fc5b5b37cd2c3c7b5d7d1eb8b8597da47d1eb833fc7bfc3333fc5b37cb3c2c7da47db8b87bb8333c5ed72dca5b2b2d27"
+  }
+ ]
+}
